@@ -1,0 +1,13 @@
+# 基本设置
+title: CodingGirlsClub - 个人博客脚手架
+author: codinggirlsclub
+
+# 菜单
+menu:
+  - title: 首页
+    url: /blog-scaffold
+  - title: 我的简历
+    url: /blog-scaffold/pages/resume.html
+
+# 页面设置
+baseurl: ''
