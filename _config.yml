@@ -5,9 +5,9 @@ author: codinggirlsclub
 # 菜单
 menu:
   - title: 首页
-    url: /blog-scaffold
+    url: /
   - title: 我的简历
-    url: /blog-scaffold/pages/resume.html
+    url: /pages/resume.html
 
 # 页面设置
-baseurl: ''
+baseurl: '/blog-scaffold'
